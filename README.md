@@ -5,6 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=kooroshafshoon&label=Profile%20views&color=0e75b6&style=flat" alt="kooroshafshoon" />
 </p>
 
+<p align="center">
+  <a href="https://www.github.com/kooroshafshoon"><img src="https://img.shields.io/github/followers/kooroshafshoon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+</p>
+
+
 ---
 
 ### 🙋‍♂️ About Me
@@ -51,22 +56,4 @@ I've been programming for around 5 years, working mainly with **Python** and **P
 <a href="https://www.qt.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a>
 </p>
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kooroshafshoon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="kooroshafshoon's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kooroshafshoon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="kooroshafshoon streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kooroshafshoon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://www.github.com/kooroshafshoon"><img src="https://img.shields.io/github/followers/kooroshafshoon?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-</p>
