@@ -28,7 +28,7 @@ I've been programming for around 5 years, working mainly with **Python** and **P
 ### 📫 Get in Touch
 
 - ✉️ Email: [minerminer474@gmail.com](mailto:minerminer474@gmail.com)
-- 💬 Telegram: [@uxe2734_fakeone](https://t.me/uxe2734_fakeone)
+- 💬 Telegram: [KooroshAfshoon](https://t.me/KooroshAfshoon)
 - 🐙 GitHub: [KooroshAfshoon](https://github.com/KooroshAfshoon)
 - 📸 Instagram: [koorosh_afshoon86](https://instagram.com/koorosh_afshoon86)
 - ▶️ YouTube: [@koorosh_afshoon](https://www.youtube.com/@koorosh_afshoon)
