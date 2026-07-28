@@ -29,7 +29,7 @@ I've been programming for around 5 years, working mainly with **Python** and **P
 
 - ✉️ Email: [minerminer474@gmail.com](mailto:minerminer474@gmail.com)
 - 💬 Telegram: [KooroshAfshoon](https://t.me/KooroshAfshoon)
-- 🟦 LinkedIn: [KooroshAfshoon](https://linkedin.com/in/koorosh-afshoon-044380247)
+- 🟦 LinkedIn: [KooroshAfshoon](https://www.linkedin.com/in/koorosh-afshoon-044380247)
 - 🐙 GitHub: [KooroshAfshoon](https://github.com/KooroshAfshoon)
 - 📸 Instagram: [koorosh_afshoon86](https://instagram.com/koorosh_afshoon86)
 - ▶️ YouTube: [@koorosh_afshoon](https://www.youtube.com/@koorosh_afshoon)
